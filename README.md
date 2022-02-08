@@ -6,6 +6,8 @@ This implementation is ideal for those wishing to learn more about the algorithm
 
 In fact, it is possible to make the code reactive in the sense that new information affecting the cost of travel between two waypoints can be input to the pathfinder, and the best-possible path can be recomputed.  If you have ever used Google Maps or Waze to navigate to a destination, you have probably seen this in action :)
 
+NOTE:  This repo has been deprecated - this code is now [updated and maintained as part of the AMYR library](https://github.com/theAlgorithmist/AMYR).
+
 Author:  Jim Armstrong - [The Algorithmist]
 
 @algorithmist
